@@ -2,6 +2,15 @@
 
 I'm interested in discord Bots and Web Development.
 
-[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Givo29&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Givo29&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=true&username=Givo29"
+    height="150"
+    alt="stats graph"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide=html,css&hide_border=true&username=Givo29"
+    height="150"
+    alt="languages graph"
+  />
+</div>
