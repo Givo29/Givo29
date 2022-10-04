@@ -1,6 +1,8 @@
 ### Hi there, I'm Joel! 👋
 
-I'm interested in discord Bots and Web Development.
+- Final year Computer Science student
+- DevOps Engineer at De Bortoli Wines
+- Passionate about web development
 
 <div>
   <img
