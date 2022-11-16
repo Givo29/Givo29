@@ -1,6 +1,6 @@
 ### Hi there, I'm Joel! 👋
 
-- Final year Computer Science student
+- Bachelor of Computer Science
 - DevOps Engineer at De Bortoli Wines
 - Passionate about web development
 
